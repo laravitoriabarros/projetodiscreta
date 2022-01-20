@@ -93,8 +93,10 @@ def gerarChavePublica(escolhaInicial):
 
         
        ## Caso o valor da função seja 1, significa que os números são coprimos!
-        
-    if mdc2 == 1:
+   
+       def coprimosEN():
+    
+         if mdc2 == 1:
 
 
             ## Este comando cria um arquivo e permite que adicionemos algo nele:
@@ -131,7 +133,7 @@ def gerarChavePublica(escolhaInicial):
                print(e, N)
            ## Depois, mandamos o novo valor para a função "coprimosEN" para ser verificado
                
-    
+                return coprimosEN()
         
 
     ## Aqui chamamos a função "coprimosEN" para que ela possa verificar se os valores de "e" e "N" são coprimos
