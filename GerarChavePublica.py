@@ -133,7 +133,7 @@ def gerarChavePublica(escolhaInicial):
                print(e, N)
            ## Depois, mandamos o novo valor para a função "coprimosEN" para ser verificado
                
-                return coprimosEN()
+               return coprimosEN()
         
 
     ## Aqui chamamos a função "coprimosEN" para que ela possa verificar se os valores de "e" e "N" são coprimos
