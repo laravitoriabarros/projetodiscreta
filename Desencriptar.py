@@ -1,7 +1,8 @@
 def desencriptar(escolhaInicial):
 
     # Criando uma lista com alguns caracteres da tabela ASCII (alfabeto + alguns símbolos) para poder fazer 
-    # a decodificação 
+    # a decodificação
+    # THE DECODING
 
     alphabet = list()
     for i in range(47, 120):
