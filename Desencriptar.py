@@ -13,7 +13,7 @@ def desencriptar(escolhaInicial):
 
     # Decodifica a mensagem
     def decodify(char, chave):
-        index = 0
+        index = 0 ##nomedoandrew
         decodified = list()
         # Vai letra por letra da mensagem e vê se ela existe na lista que criamos anteriormente
         for i in range(0, len(char)):
