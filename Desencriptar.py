@@ -1,8 +1,8 @@
 def desencriptar(escolhaInicial):
+#Tonholo, o El Calvo
 
     # Criando uma lista com alguns caracteres da tabela ASCII (alfabeto + alguns símbolos) para poder fazer 
-    # a decodificação
-    # THE DECODING
+    # a decodificação 
 
     alphabet = list()
     for i in range(47, 120):
