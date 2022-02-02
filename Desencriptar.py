@@ -4,7 +4,7 @@ def desencriptar(escolhaInicial):
     # a decodificação 
 
     alphabet = list()
-    for i in range(32, 127):
+    for i in range(47, 120):
         alphabet.append(chr(i))
 
     # Pede o texto para o usuário
