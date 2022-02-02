@@ -67,9 +67,6 @@ def gerarChavePublica(escolhaInicial):
 
     N = (p - 1) * (q - 1)
     
-
-    print(N)
-    
     ## Agora vamos verificar se o número "e" e o valor da variável "N" são primos entre si:
 
     ## Aqui criamos uma função para descobrir o MDC de "e" e "N":
