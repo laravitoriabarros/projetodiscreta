@@ -1,5 +1,4 @@
 def desencriptar(escolhaInicial):
-#Tonholo, o El Calvo
 
     # Criando uma lista com alguns caracteres da tabela ASCII (alfabeto + alguns símbolos) para poder fazer 
     # a decodificação 
