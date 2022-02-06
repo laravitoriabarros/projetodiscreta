@@ -2,6 +2,8 @@ from GerarChavePublica import gerarChavePublica
 from Encriptar import encriptar
 from Desencriptar import desencriptar
 
+## Equipe: Lara Vitória, Beatriz Mota, Helton Ribeiro, Andrew Ramon, Geovane
+
 ## Inicialmente, vamos dar as três opções requeridas no projeto para o usuário:
 
 print("Digite o número correspondete a ação que deseja fazer:")
