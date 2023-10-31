@@ -27,11 +27,9 @@ sagem encriptada.
 
 Caso escolhida a opção 3 - Desencriptar:
 - Solicite que o usuário digite p, q e e.
-- Salve, no diretório de execução do programa, um arquivo txt com a men-
-sagem desencriptada.
+- Salve, no diretório de execução do programa, um arquivo txt com a mensagem desencriptada.
 
-Observação: A mensagem deve ser encriptada usando o alfabeto de letras A - Z, codifi-
-cado com inteiros de 2 a 28, onde 2 = A, 3 = B,..., 27 = Z, 28 = espaço.
+Observação: A mensagem deve ser encriptada usando o alfabeto de letras A - Z, codificado com inteiros de 2 a 28, onde 2 = A, 3 = B,..., 27 = Z, 28 = espaço.
 
 ### 🛠 Tecnologias Utilizadas
 
